@@ -32,3 +32,5 @@ You are required to submit the following for review:
 The URL of the deployed application.
 
 The URL of the GitHub repository. Give the repository a unique name and include a professional README describing the project.
+
+- Addition features: NOW MOBILE FRIENDLY!
